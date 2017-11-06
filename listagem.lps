@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="listagem.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="59"/>
+        <CursorPos X="37" Y="12"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="listagem.lpr"/>
+        <Caret Line="24" Column="32" TopLine="10"/>
+      </Position1>
+      <Position2>
+        <Filename Value="listagem.lpr"/>
+        <Caret Line="17" Column="41" TopLine="12"/>
+      </Position2>
+      <Position3>
+        <Filename Value="listagem.lpr"/>
+        <Caret Line="21" Column="36" TopLine="15"/>
+      </Position3>
+      <Position4>
+        <Filename Value="listagem.lpr"/>
+        <Caret Line="20" Column="12" TopLine="15"/>
+      </Position4>
+      <Position5>
+        <Filename Value="listagem.lpr"/>
+        <Caret Line="24" Column="25" TopLine="16"/>
+      </Position5>
+      <Position6>
+        <Filename Value="listagem.lpr"/>
+        <Caret Line="21" Column="11" TopLine="13"/>
+      </Position6>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

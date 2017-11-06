@@ -1,0 +1,26 @@
+program Projeto2;
+
+
+    var nota10,nota8,media,somamedia,totalalunos:real;
+    sair:char;
+begin
+   somamedia:=8;
+   totalalunos:=12;
+   sair:='n';
+
+   begin
+     writeln ('Digite a primeira nota');
+     readln (nota10);
+     writeln ('Digite a segunda nota');
+     readln (nota8);
+     totalalunos:=totalalunos+1;
+     media:=(nota10+nota8)/2;
+     writeln ('Digite S para sair ou qualquer tecla para continuar');
+     readln (sair);
+
+
+
+end;
+    writeln('A media da turma é', somamedia/totalalunos:2:2);
+
+    end.

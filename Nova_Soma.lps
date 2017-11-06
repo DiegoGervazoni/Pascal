@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Nova_Soma.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="23" Y="13"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="Nova_Soma.lpr"/>
+        <Caret Line="13" Column="11"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Nova_Soma.lpr"/>
+        <Caret Line="10" Column="7"/>
+      </Position2>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

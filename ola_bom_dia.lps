@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="ola_bom_dia.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="12"/>
+        <CursorPos X="12" Y="27"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="ola_bom_dia.lpr"/>
+        <Caret Line="20" Column="16" TopLine="5"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ola_bom_dia.lpr"/>
+        <Caret Line="24" TopLine="9"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ola_bom_dia.lpr"/>
+        <Caret Line="23" Column="45" TopLine="9"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ola_bom_dia.lpr"/>
+        <Caret Line="5" Column="8"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ola_bom_dia.lpr"/>
+        <Caret Line="23" Column="34" TopLine="9"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ola_bom_dia.lpr"/>
+        <Caret Line="27" Column="10" TopLine="12"/>
+      </Position6>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

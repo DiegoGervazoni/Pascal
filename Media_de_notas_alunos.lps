@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Media_de_notas_alunos.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="6"/>
+        <CursorPos X="15" Y="18"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="Media_de_notas_alunos.lpr"/>
+        <Caret Line="21" Column="32" TopLine="5"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Media_de_notas_alunos.lpr"/>
+        <Caret Line="18" Column="16" TopLine="5"/>
+      </Position2>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

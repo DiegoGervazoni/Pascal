@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Outa_Media.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="42" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="Outa_Media.lpr"/>
+        <Caret Line="25" Column="11" TopLine="7"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Outa_Media.lpr"/>
+        <Caret Line="20" Column="15" TopLine="10"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Outa_Media.lpr"/>
+        <Caret Line="22" Column="18" TopLine="10"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Outa_Media.lpr"/>
+        <Caret Line="21" Column="35" TopLine="10"/>
+      </Position4>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

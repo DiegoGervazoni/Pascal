@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Mais_uma_media.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="12"/>
+        <CursorPos X="7" Y="27"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="Mais_uma_media.lpr"/>
+        <Caret Line="23" Column="57" TopLine="6"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Mais_uma_media.lpr"/>
+        <Caret Line="20" Column="75" TopLine="8"/>
+      </Position2>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

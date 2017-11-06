@@ -1,0 +1,19 @@
+program vamosladenovo;
+uses crt;
+var
+  qqcoisa1 : integer;
+  qqcoisa2 : integer;
+  qqcoisa3 : integer;
+
+  resutaldo : integer;
+
+begin
+  qqcoisa1 := 6230;
+  qqcoisa2 := 7890;
+  qqcoisa3 := 8560;
+
+  resultado := qqcoisa1+qqcoisa2+qqcoisa3;
+  writeln (resultado);
+  readkey;
+end.
+

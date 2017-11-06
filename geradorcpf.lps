@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="geradorcpf.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="cpf"/>
+        <CursorPos X="12"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="strings.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="1">
+      <Position1>
+        <Filename Value="strings.pas"/>
+      </Position1>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

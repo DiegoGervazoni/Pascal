@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="poxamasdenovosoma.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="13"/>
+        <CursorPos X="53" Y="27"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="13" HistoryIndex="12">
+      <Position1>
+        <Filename Value="poxamasdenovosoma.lpr"/>
+        <Caret Line="22" Column="11" TopLine="5"/>
+      </Position1>
+      <Position2>
+        <Filename Value="poxamasdenovosoma.lpr"/>
+        <Caret Line="24" Column="17" TopLine="14"/>
+      </Position2>
+      <Position3>
+        <Filename Value="poxamasdenovosoma.lpr"/>
+        <Caret Line="30" Column="50" TopLine="14"/>
+      </Position3>
+      <Position4>
+        <Filename Value="poxamasdenovosoma.lpr"/>
+        <Caret Line="24" Column="27" TopLine="15"/>
+      </Position4>
+      <Position5>
+        <Filename Value="poxamasdenovosoma.lpr"/>
+        <Caret Line="3" Column="6"/>
+      </Position5>
+      <Position6>
+        <Filename Value="poxamasdenovosoma.lpr"/>
+        <Caret Line="4" Column="28" TopLine="16"/>
+      </Position6>
+      <Position7>
+        <Filename Value="poxamasdenovosoma.lpr"/>
+        <Caret Line="24" Column="27" TopLine="15"/>
+      </Position7>
+      <Position8>
+        <Filename Value="poxamasdenovosoma.lpr"/>
+        <Caret Line="4" Column="32"/>
+      </Position8>
+      <Position9>
+        <Filename Value="poxamasdenovosoma.lpr"/>
+        <Caret Line="24" Column="38" TopLine="9"/>
+      </Position9>
+      <Position10>
+        <Filename Value="poxamasdenovosoma.lpr"/>
+        <Caret Line="4" Column="15"/>
+      </Position10>
+      <Position11>
+        <Filename Value="poxamasdenovosoma.lpr"/>
+        <Caret Line="30" Column="63" TopLine="16"/>
+      </Position11>
+      <Position12>
+        <Filename Value="poxamasdenovosoma.lpr"/>
+        <Caret Line="4" Column="28" TopLine="16"/>
+      </Position12>
+      <Position13>
+        <Filename Value="poxamasdenovosoma.lpr"/>
+        <Caret Line="30" Column="58" TopLine="15"/>
+      </Position13>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

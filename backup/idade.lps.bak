@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="idade.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="6"/>
+        <CursorPos X="37" Y="20"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="idade.lpr"/>
+        <Caret Line="32" Column="11"/>
+      </Position1>
+      <Position2>
+        <Filename Value="idade.lpr"/>
+        <Caret Line="5" Column="45"/>
+      </Position2>
+      <Position3>
+        <Filename Value="idade.lpr"/>
+        <Caret Line="6" Column="5"/>
+      </Position3>
+      <Position4>
+        <Filename Value="idade.lpr"/>
+        <Caret Line="20" Column="44" TopLine="6"/>
+      </Position4>
+      <Position5>
+        <Filename Value="idade.lpr"/>
+        <Caret Line="5" Column="23"/>
+      </Position5>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

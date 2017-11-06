@@ -1,0 +1,25 @@
+program fazendomaisumamedia;
+uses crt;
+var
+  a1,a2,a3,a4, media:real;
+
+begin
+  writeln ('Media de aprovacao e reprovacao');
+  writeln ('-------------------------------');
+  write   ('Antonio: ');
+  readln  (a1);
+  write   ('Hebert: ');
+  readln  (a2);
+  write   ('Augusto: ');
+  readln  (a3);
+  write   ('Beatriz: ');
+  readln  (a4);
+
+  media := (a1+a2+a3+a4) /4;
+
+  if (media < 6) then
+  write ('Reprovado: ', media) else
+  ('Aprovado: ', media);
+  readkey;
+end.
+

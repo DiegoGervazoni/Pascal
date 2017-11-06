@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Nova_Media.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="7"/>
+        <CursorPos X="41" Y="23"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="1">
+      <Position1>
+        <Filename Value="Nova_Media.lpr"/>
+        <Caret Line="23" Column="3" TopLine="10"/>
+      </Position1>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

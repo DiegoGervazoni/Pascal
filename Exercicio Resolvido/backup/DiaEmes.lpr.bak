@@ -1,0 +1,20 @@
+program DiaEmes;
+uses crt;
+var
+  dia,mes,anonovo:real;
+
+
+begin
+  write ('Escreve o dia atual: ');
+  readln(dia);
+
+  write ('Escreva o mes atual: ');
+  readln(mes);
+
+  anonovo := dia*mes-365;
+
+  writeln ('O total de dias que faltam para fim do ano eh: ',anonovo:3:0);
+
+  readkey;
+end.
+

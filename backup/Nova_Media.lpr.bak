@@ -1,0 +1,28 @@
+program Nova_Media;
+uses crt;
+var
+  Joao, Maria, Antonio, Sebastiao, Rogerio, Media: real;
+
+begin
+  writeln ('Calcular a media dos alunos');
+  writeln ('===========================');
+  write   ('Digite a primeira nota: ');
+  readln  (Joao);
+  write   ('Digite a segunda nota: ');
+  readln  (Maria);
+  write   ('Digite a terceira nota: ');
+  readln  (Antonio);
+  write   ('Digite a quarta nota: ');
+  readln  (Sebastiao);
+  write   ('Digite a quinta nota: ');
+  readln  (Rogerio);
+  Media := ((Joao+Maria+Antonio+Sebastiao+Rogerio) /5);
+  if ( Media > 6) then
+  write ('Aluno aprovado com media: ', Media)
+  else
+  write ('Aluno reprovado com media: ', Media);
+  readkey;
+
+
+end.
+

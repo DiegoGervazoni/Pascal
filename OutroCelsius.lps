@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="OutroCelsius.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="7"/>
+        <CursorPos X="15" Y="18"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="OutroCelsius.lpr"/>
+        <Caret Line="23" Column="11" TopLine="5"/>
+      </Position1>
+      <Position2>
+        <Filename Value="OutroCelsius.lpr"/>
+        <Caret Line="18" Column="9" TopLine="7"/>
+      </Position2>
+      <Position3>
+        <Filename Value="OutroCelsius.lpr"/>
+        <Caret Line="17" Column="10" TopLine="7"/>
+      </Position3>
+      <Position4>
+        <Filename Value="OutroCelsius.lpr"/>
+        <Caret Line="19" Column="49" TopLine="7"/>
+      </Position4>
+      <Position5>
+        <Filename Value="OutroCelsius.lpr"/>
+        <Caret Line="18" Column="19" TopLine="7"/>
+      </Position5>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

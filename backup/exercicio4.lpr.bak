@@ -1,0 +1,26 @@
+program exercicio4;
+uses crt;
+var
+  idade:integer;
+  sexo:char;
+  altura:double;
+  RA:integer;
+
+
+begin
+  writeln ('----------------------------------');
+  writeln ('Programa de cadastramento de aluno');
+  writeln ('----------------------------------');
+  write  ('Digite o seu nome: ');
+  readln   (nome);
+  write ('Digite a sua idade: ');
+  idade := 24;
+  write ('Digite o seu sexo (M - no caso masculino ou F - no caso feminino) : ');
+  readln(sexo);
+  write (altura);
+  RA := 502146871;
+  writeln ('Cadastro realizado com sucesso! ');
+  readkey;
+
+end.
+

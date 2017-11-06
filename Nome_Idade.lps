@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Nome_Idade.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="23" Y="44"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="29" TopLine="20"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="111" TopLine="95"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="4" Column="35"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="106" Column="17" TopLine="95"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="28" Column="14" TopLine="28"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="6" Column="14"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="23" Column="5" TopLine="11"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="96" Column="12" TopLine="80"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="98" TopLine="81"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="27" Column="4" TopLine="13"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="96" Column="4" TopLine="81"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="99" Column="4" TopLine="81"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="98" Column="5" TopLine="81"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="65" Column="10" TopLine="59"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="97" Column="3" TopLine="79"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="95" Column="6" TopLine="78"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="28" Column="4" TopLine="28"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="82" Column="5" TopLine="78"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="41" Column="4" TopLine="27"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="42" Column="10" TopLine="33"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="55" Column="3" TopLine="40"/>
+      </Position21>
+      <Position22>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="42" Column="5" TopLine="32"/>
+      </Position22>
+      <Position23>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="72" Column="4" TopLine="48"/>
+      </Position23>
+      <Position24>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="92" Column="5" TopLine="25"/>
+      </Position24>
+      <Position25>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="94" Column="2" TopLine="77"/>
+      </Position25>
+      <Position26>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="46" Column="45" TopLine="38"/>
+      </Position26>
+      <Position27>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="44" Column="10" TopLine="37"/>
+      </Position27>
+      <Position28>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="46" Column="11" TopLine="33"/>
+      </Position28>
+      <Position29>
+        <Filename Value="Nome_Idade.lpr"/>
+        <Caret Line="4" Column="44"/>
+      </Position29>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
